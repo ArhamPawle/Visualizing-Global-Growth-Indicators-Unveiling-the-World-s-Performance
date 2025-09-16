@@ -1,0 +1,2 @@
+# Visualizing-Global-Growth-Indicators-Unveiling-the-World-s-Performance
+"Visualizing Global Growth Indicators" leverages World Bank data with Python to make complex economic and social trends more accessible. Using line graphs, animations, and predictive modeling, it highlights key factors like economics and sustainability, helping stakeholders make informed, data-driven decisions for a sustainable future.
